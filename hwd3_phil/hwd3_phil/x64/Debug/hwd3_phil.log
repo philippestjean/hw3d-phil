@@ -1,0 +1,3 @@
+﻿  WinMain.cpp
+d:\chili\hw3d-phil\hwd3_phil\hwd3_phil\winmain.cpp(100): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  hwd3_phil.vcxproj -> D:\Chili\hw3d-phil\hwd3_phil\x64\Debug\hwd3_phil.exe
